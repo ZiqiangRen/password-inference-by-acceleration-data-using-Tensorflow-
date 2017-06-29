@@ -7,3 +7,4 @@ python train_datasets_get_features.py
 python train_datasets_simplification.py
 python test_datasets_segmetation.py
 python test_datasets_get_features.py
+
